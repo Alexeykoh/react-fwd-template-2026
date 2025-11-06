@@ -6,7 +6,7 @@ export const HomePage = () => {
         <p className="text-lg text-muted-foreground">
           Шаблон проекта с Feature-Sliced Design архитектурой
         </p>
+        </div>
       </div>
-    </div>
   );
 };
